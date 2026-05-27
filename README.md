@@ -5,4 +5,4 @@
 
 | 简介 | 链接| 
 |-------|-------|
-| UI测试用例自愈自能 | [ui-test-self-heal](/skills/ui-test-self-heal/SKILL.md) | 
+| UI测试用例自愈自技能| [ui-test-self-heal](/skills/ui-test-self-heal/SKILL.md) | 
